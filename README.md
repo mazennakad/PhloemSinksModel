@@ -1,3 +1,5 @@
+DOI: https://doi.org/10.5281/zenodo.17387801
+
 # PhloemSinksModel
 This repository contains the MATLAB implementation of the Phloem model with different sink profiles along the phloem pathway, used to simulate sugar transport and pressure dynamics along the phloem with distributed sink profiles. The model couples osmotic flow, sucrose transport, and xylem–phloem water exchange to explore how spatial variations in sink demand influence phloem function.
 
