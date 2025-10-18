@@ -3,8 +3,8 @@ close all
 addpath('./fcn/');
 addpath('./solver/');
 addpath('./initial/');
-path = "/Users/mazennakad/Desktop/phloem/phloem_transport";
-data = readtable(path + "/BCI_hydro_Cohort_hourly.csv");
+path = "./";
+data = readtable(path + "BCI_hydro_Cohort_hourly.csv");
 duration = 24; % duration of the simulation, 24 hours
 
 % Get a c-nu relation at ambient temperature
